@@ -1,4 +1,7 @@
 {
   "name": "yarn-vscode-bug-repro",
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "aws-cdk": "^2.141.0"
+  }
 }
