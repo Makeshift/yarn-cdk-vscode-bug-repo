@@ -1,0 +1,4 @@
+{
+  "name": "yarn-vscode-bug-repro",
+  "packageManager": "yarn@4.0.2"
+}
